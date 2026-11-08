@@ -1,0 +1,71 @@
+EasyResume ("the App") is a resume-building tool. The App is designed to be local-first: no account is required, and the resume content and photos you enter are stored only on your device by default — they are not uploaded to our servers. This policy explains how information related to you is handled.
+
+# 2. Information We Process
+
+**2.1 Resume content (stored locally only)**
+The name, job objective, contact details, birthday, education, work experience, projects and skills you enter are stored in the App's local data directory on your device (draft file). We cannot access this content.
+
+**2.2 Photos**
+When you choose a resume photo, the App uses the system photo picker (PHPicker) and only receives the image you select. It does not access your photo library as a whole and does not require full library permission. The photo is stored in the local draft described above.
+
+**2.3 Exported PDFs**
+PDF files you export are saved in the App's local documents directory. You manage them and can delete them in the App at any time.
+
+**2.4 Purchase information**
+Subscriptions and the Remove Ads purchase are processed by the Apple App Store. We do not receive your card number, payment account or billing address. The App only reads Apple's transaction receipts to determine your entitlements.
+
+**2.5 Advertising data**
+The free version integrates Google AdMob to display ads. AdMob may collect the following to deliver and measure ads:
+- Device identifiers and device information
+- IP address and approximate location derived from it
+- Ad impression, click and interaction data
+
+Where required (e.g. the EEA), we collect consent through Google's User Messaging Platform (UMP) and provide an ad privacy options entry in the App. See Google's policies:
+- https://policies.google.com/privacy
+- https://policies.google.com/technologies/partner-sites
+
+**2.6 What we do not collect**
+- We do not require an account and do not collect account credentials;
+- We do not upload or back up your resume content or photos;
+- We do not request location, contacts, microphone or camera access;
+- The App does not include third-party analytics or crash-reporting SDKs.
+
+# 3. Permissions
+- **Photos**: only the image you explicitly select is read;
+- **Network**: used for ads, product prices and purchase verification;
+- No other sensitive permissions are requested.
+
+# 4. Storage and Retention
+- Resume drafts, photos and backups: stored locally until you delete them in the App or uninstall it;
+- Exported PDFs: stored locally until you delete them or uninstall the App;
+- Ad and purchase data: retained by Google and Apple under their respective policies.
+
+# 5. Sharing
+We do not sell your personal information. Third parties are involved only as follows:
+- **Apple**: processes in-app purchases and subscriptions;
+- **Google AdMob**: serves ads and manages ad consent;
+- **Legal requirements**: to comply with law or valid legal process.
+
+# 6. International Transfers
+Resume content and photos never leave your device. Ad and purchase data may be processed by Google and Apple on their global infrastructure under their policies.
+
+# 7. Security
+Resume data is stored in the iOS app sandbox protected by system isolation. Because data does not pass through our servers, risk depends primarily on your device security. We recommend enabling a device passcode and keeping backups of important files.
+
+# 8. Your Rights
+You can:
+- Edit or delete resumes and PDFs in the App;
+- Remove all local data by uninstalling the App;
+- Contact us at the email below to exercise access, correction or deletion rights;
+- Exercise ad-data rights through Google's links above.
+
+If you are in the EEA, the UK or California, you may have additional rights under GDPR / UK GDPR / CCPA, and we will respond in accordance with applicable law.
+
+# 9. Children's Privacy
+The App is not directed to children under 13 (16 in the EEA), and we do not knowingly collect children's personal information. Because resume content is stored locally, parents can remove all data by deleting the App.
+
+# 10. Changes
+We may update this policy from time to time. Material changes will be indicated in the App or on the App Store page. Updated policies take effect when posted.
+
+# 11. Contact
+Questions or requests: ycfiggy@gmail.com
